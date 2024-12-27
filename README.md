@@ -5,3 +5,5 @@ work done on old notebook without inteliji/or any ai except few questions to gpt
 
 
 current answer is too low 1748 hmmm
+
+ugly code
